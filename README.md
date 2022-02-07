@@ -1,4 +1,9 @@
+import Cliff from './Cliff.js'
 ### Hi there 👋
+
+My name is Cliff. I am a software developer in Portland, Oregon. I will be graduating Alchemy Code Lab in june, 2022. At that point I will be proficient in HTML, CSS, JS and React. 
+
+Feel free to take a look at some of my work!
 
 <!--
 **Cliffmax85/Cliffmax85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
